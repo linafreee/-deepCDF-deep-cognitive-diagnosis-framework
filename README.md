@@ -10,6 +10,7 @@ This code is released for the paper "Deep cognitive diagnosis model for predicti
 
 ### Citation:
 1.The algorithm deepCDF is from the paper:
+'''bibtex
 @article{GAO2022252,
 title = {Deep cognitive diagnosis model for predicting students’ performance},
 journal = {Future Generation Computer Systems},
@@ -21,6 +22,7 @@ doi = {https://doi.org/10.1016/j.future.2021.08.019},
 url = {https://www.sciencedirect.com/science/article/pii/S0167739X21003277},
 author = {Lina Gao and Zhongying Zhao and Chao Li and Jianli Zhao and Qingtian Zeng}
 }
+'''
 
 2.The datasets we use are from the paper:
 @article{10.1145/3168361,
