@@ -10,6 +10,16 @@ This code is released for the paper "Deep cognitive diagnosis model for predicti
 
 ### Citation:
 1.The algorithm deepCDF is from the paper:
+```bibtex
+@article{sun2023fedspeed,
+  title={Fedspeed: Larger local interval, less communication round, and higher generalization accuracy},
+  author={Sun, Yan and Shen, Li and Huang, Tiansheng and Ding, Liang and Tao, Dacheng},
+  journal={arXiv preprint arXiv:2302.10429},
+  year={2023}
+}
+```
+
+
 '''bibtex
 @article{GAO2022252,
 title = {Deep cognitive diagnosis model for predicting students’ performance},
