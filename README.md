@@ -1,6 +1,6 @@
 # -deepCDF-deep-cognitive-diagnosis-framework
 ### Basic Information:
-This code is released for the paper "Deep cognitive diagnosis model for predicting students' performance".
+The source code and datasets are released for the paper "Deep cognitive diagnosis model for predicting students' performance".
 
 
 ### Usage:
