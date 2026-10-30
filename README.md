@@ -6,7 +6,6 @@ This code is released for the paper "Deep cognitive diagnosis model for predicti
 ### Usage:
 1. Environment: I have tested this code with python3.6, tensorflow-cpu-1.3.0, torch-cpu-1.6.0
 2. Run deepCDF: cd the sub-directory Code and execute the command `python model.py`
-3. Download the processed data: 链接：https://pan.baidu.com/s/1ILRL7vNrMOJMQbUwOIcntQ?pwd=jxbg; the password is jxbg
 
 ### Citation:
 1.The algorithm deepCDF is from the paper:
